@@ -1,4 +1,4 @@
-package cmd
+package main
 
 import (
 	"cat-fact-service/internal/db"
